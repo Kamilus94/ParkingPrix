@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "parkingprix",
+  "compatibility_date": "2026-10-08",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "./worker/index.ts",
+  "assets": {
+    "directory": "dist/client",
+    "not_found_handling": "none",
+    "binding": "ASSETS"
+  },
+  "observability": { "enabled": true }
+  // Domaine personnalisé : une fois parkingprix.com ajouté à Cloudflare, décommenter.
+  // "routes": [{ "pattern": "parkingprix.com", "custom_domain": true }, { "pattern": "www.parkingprix.com", "custom_domain": true }]
+}
