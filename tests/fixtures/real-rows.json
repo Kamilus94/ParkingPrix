@@ -1,0 +1,13 @@
+{
+  "paris": [
+    {"id":"75107-P-060","nom":"INVALIDES","insee":"75107","adresse":"24 rue de constantine, 75007, Paris","url":"https://fr.parkindigo.com/parking/paris-75007/invalides-75070100","type_usagers":"tous","gratuit":0,"nb_places":894,"nb_pmr":3,"nb_voitures_electriques":null,"hauteur_max":190,"xlong":2.31465998,"ylat":48.85928758,"tarif_1h":5.4,"tarif_2h":10.8,"tarif_3h":16.2,"tarif_4h":21.6,"tarif_24h":48.6,"info":["tarif PMR = 2,70 euros"],"arrdt":"7","deleg":"INDIGO","horaire_na":"24h / 24","tf_15mn_e":1.35,"tf_30mn_e":2.7,"geo_point_2d":{"lon":2.3146599819354683,"lat":48.859287581418464}},
+    {"id":"75116-P-162","nom":"JEAN BOUIN","insee":"75116","adresse":"17 rue nungesser et coli, 75016, Paris","url":"https://www.saemes.fr/fr/parking/parking-jean-bouin","type_usagers":"tous","gratuit":0,"nb_places":483,"hauteur_max":190,"xlong":2.25210919,"ylat":48.84430241,"tarif_1h":4.4,"tarif_2h":8.8,"tarif_3h":13.2,"tarif_4h":17.6,"tarif_24h":39.6,"arrdt":"16","deleg":"SAEMES","horaire_na":"07h / 23h","tf_15mn_e":1.1,"tf_30mn_e":2.2,"geo_point_2d":{"lon":2.252109185193919,"lat":48.84430240843255}},
+    {"id":"75115-P-157","nom":"FREMICOURT","insee":"75115","adresse":"13 ter rue fremicourt, 75015, Paris","url":"?","type_usagers":"abonnés","gratuit":0,"nb_places":195,"hauteur_max":190,"xlong":2.29739674,"ylat":48.84734233,"tarif_1h":null,"arrdt":"15","deleg":"INDIGO","horaire_na":"POUR ABONNES","geo_point_2d":{"lon":2.2973967390766177,"lat":48.84734233294499}}
+  ],
+  "saemes": [
+    {"id":"75116-P-162","nom":"JEAN BOUIN","insee":75116.0,"adresse":"17 rue nungesser et coli, 75016, Paris","url":"https://www.saemes.fr/fr/parking/parking-jean-bouin","type_usagers":"tous","gratuit":0.0,"nb_places":483.0,"hauteur_max":190.0,"xlong":2.25210919,"ylat":48.84430241,"tarif_1h":"4.5","tarif_2h":"8.8","tarif_3h":"13.2","tarif_4h":"17.6","tarif_24h":"39.6"},
+    {"id":"75107-P-076","nom":"CHAMPS ELYSEES","insee":75008.0,"adresse":"Face au 62 avenue des Champs-Elysees","url":"https://www.saemes.fr/fr/parking/parking-champs-elysees","type_usagers":"tous","gratuit":0.0,"nb_places":827.0,"nb_voitures_electriques":827.0,"hauteur_max":190.0,"xlong":2.305418,"ylat":48.870672,"tarif_1h":"5.5","tarif_2h":"11","tarif_3h":"16.5","tarif_4h":"22","tarif_24h":"49.5"},
+    {"id":"75116-P-004","nom":"FLANDRIN","insee":75116.0,"type_usagers":"abonnés","gratuit":0.0,"nb_places":228.0,"hauteur_max":0.0,"xlong":2.27219,"ylat":48.86438,"tarif_1h":null},
+    {"id":"75000-P-999","nom":"SANS ACCES RENSEIGNE","insee":75000.0,"type_usagers":null,"gratuit":0.0,"nb_places":10.0,"xlong":2.3,"ylat":48.86,"tarif_1h":"3"}
+  ]
+}
